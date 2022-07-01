@@ -5,7 +5,7 @@ Sou formado em Administração de Empresa e atualmente estou passando por uma tr
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-dos-santos-catarino-ab9414206/)
 
 [![Rafael Catarino GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-catarino&show_icons=true&theme=dracula)](https://github.com/Rafael-Catarino)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-catarino&layout=compact&&theme=dracula)](https://github.com/Rafael-Catarino)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-catarino&layout=compact&card_width=400&theme=dracula)](https://github.com/Rafael-Catarino)
 
 ### Tecnologias que estou aprendendo na faculdade
 
