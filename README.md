@@ -14,3 +14,4 @@ Sou formado em Administração de Empresa e atualmente estou passando por uma tr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+![snake gif](https://github.com/Rafael-Catarino/Rafael-Catarino/blob/output/github-contribution-grid-snake.svg)
